@@ -1,0 +1,12 @@
+Sehir1-Sehir2-Mesafe
+A-B-5
+A-H-2
+B-C-2
+B-G-1
+B-F-12
+C-D-15
+C-F-3
+D-E-3
+E-F-2
+F-G-16
+G-H-1

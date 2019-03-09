@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1490096705 source:c:\users\pc\desktop\en_kisa_yol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dosya.h"
+	<windows.h>
+	"graf_olustur.h"
+
+1490094690 c:\users\pc\desktop\en_kisa_yol\dosya.h
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1490096705 c:\users\pc\desktop\en_kisa_yol\graf_olustur.h
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+
+1488554292 c:\users\pc\desktop\en_kisa_yol\dijkstra.h
+
+1488708396 c:\users\pc\desktop\en_kisa_yol\graf.h
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1492190286 source:c:\users\pc\documents\ce\projeler›m\en_kisa_yol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dosya.h"
+	<windows.h>
+	"graf_olustur.h"
+
+1492190286 c:\users\pc\documents\ce\projeler›m\en_kisa_yol\dosya.h
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1492190286 c:\users\pc\documents\ce\projeler›m\en_kisa_yol\graf_olustur.h
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+
+1515104512 source:c:\users\lenovo\desktop\projelerim-20190309t092034z-001\projelerim\en_kisa_yol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dosya.h"
+	<windows.h>
+	"graf_olustur.h"
+
+1552137071 c:\users\lenovo\desktop\projelerim-20190309t092034z-001\projelerim\en_kisa_yol\dosya.h
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1552137091 c:\users\lenovo\desktop\projelerim-20190309t092034z-001\projelerim\en_kisa_yol\graf_olustur.h
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+
