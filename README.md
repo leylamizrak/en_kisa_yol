@@ -1,5 +1,5 @@
 # en_kisa_yol
-Dijkstra
+Programlama Laboratuvarı Projesi
 
 Projede belirlenen şehirler ve aralarındaki mesafeler dosyalarda tutulup bu şehirler arasındaki en kısa yolun ve hedef şehre ulaşılması için uğranılması gereken şehirler dijkstra algoritması kullanılarak çözülmüştür. Proje Windows.h kütüphanesi de kullanılarak C Programlama dilinde geliştirilmiştir.(Lisans-2. sınıf çalışması)
 
